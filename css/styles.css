@@ -3,8 +3,10 @@
 /* Custom properties */
 :root {
   --light-clr: #fff;
-  --dark-clr: #504f4f;
-  --accent-clr: #00cc90;
+  /* --dark-clr: #504f4f; */
+  --accent-clr: #071150;
+  --dark-clr: #071150;
+  
 
   --font-size-xsm: 1.2rem;
   --font-size-sm: 1.6rem;
